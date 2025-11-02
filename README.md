@@ -47,7 +47,7 @@ username,user_id,full_name,is_verified
 example_user,123456789,Example User,False
 ```
 
-**Tip**: Use the [Instagram Follower Scraper](https://github.com/yourusername/instagram-follower-scraper) to generate this file automatically!
+**Tip**: Use the [Instagram Follower Scraper](https://github.com/AmrDoma/instagram-follower-scraper) to generate this file automatically!
 
 ### 3. Run the Script
 
