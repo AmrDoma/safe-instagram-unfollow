@@ -1,0 +1,18 @@
+# Session files 
+session 
+*.session 
+ 
+# Progress files 
+unfollow_progress.json 
+ 
+# Downloaded data 
+downloads/ 
+*.csv 
+ 
+# Python 
+*.pyc 
+__pycache__/ 
+ 
+# IDE 
+.vscode/ 
+.idea/ 
